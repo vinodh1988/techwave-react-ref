@@ -1,0 +1,38 @@
+.product h5,.product h6{
+    padding: 10px;
+    text-align: center;
+    color: rgb(240, 50, 82);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px pink;
+    height: 30%;
+}
+
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 5px pink;
+    height: 15%;
+}
+
+.product{
+    float: left;
+    margin: 25px;
+    border: 2px solid pink;
+    padding: 20px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 2px 2px 30px pink;
+}
+.image-box{
+    height: 50%;
+    text-align: center;
+    border: 1px solid pink;
+    box-shadow: 1px 1px 5px pink;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.image-box img{
+    height: 80%;
+    width: 150px;
+}

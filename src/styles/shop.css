@@ -1,0 +1,23 @@
+#shop-container{
+    overflow: hidden;
+}
+
+.catalog{
+   height: 450px;
+   margin-bottom: 10px;
+   padding-bottom:20px;
+   border-bottom: 1px solid pink;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: pink;
+}
+
+
+
+#shop-container h1, .catalog h3{
+    color: pink;
+    margin: 20px;
+}
+
+#shop-container h1{
+    text-shadow: 2px 2px 5px pink;
+}

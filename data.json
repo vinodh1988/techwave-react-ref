@@ -1,0 +1,135 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "WOW Skin Science Onion Black Seed Hair Oil",
+      "type": "Hair",
+      "price": "499",
+      "image": "wowskin.jpg",
+      "description": "WOW Skin Science Onion Black Seed Hair Oil is a non sticky, non greasy and fast absorb hair oil with Onion Black Seed Oil blended with Almond, Castor, Jojoba, Olive & Coconut Oils. Its premium fast-absorb formulation tackles hair issues like excessive hair fall, thinning, greying, dryness, and dandruff. Onion Black Seed Oil Black seed oil is a traditionally trusted and clinically proven remedy for all kinds of hair problems. Regular use helps bring silkiness and strength to tresses, and improves the way hair looks, feels and behaves. Made with 100% pure cold pressed oils, 100% free of hexane, mineral oil and silicone for holistic hair care.",
+      "qty": "200 ml"
+    },
+    {
+      "id": 2,
+      "name": "Godrej Anoop 100% Ayurvedic Anti Hair Fall Oil",
+      "type": "Hair",
+      "price": "399",
+      "image": "anoop.jpg",
+      "description": "Godrej Anoop Hair Oil is a 100% Ayurvedic anti-hairfall solution. It is made with ingredients such as amla, bhringraj, yashtimadhu and nilini among others - all of which have a very strong linkage with healthy hair in Ayurvedic literature. Launched in 1991, Anoop is recognized as a Proprietary Ayurvedic Medicine and is recommended for both - men and women. Anoop's potent formulation is derived from ancient Indian Ayurvedic text - Sahasrayogam. It's rich natural ingredients are known to combat hairfall, dandruff, deeply nourish, cleanse scalp, promote hair growth, shine and improve hair thickness over time. The ingredients are hand picked from the hills of Kerala. All ingredients are processed in a traditional way using brass vessels with milk and coconut oil. When condensed to 1/9th its original volume- the final product is obtained which is 100% herbal and completely free of chemicals and preservatives. The entire process from hand picking of leaves to filling the oil in bottle, is completed within 48 hours, preserving the natural essence of all the ingredients.",
+      "qty": "100 ml"
+    },
+    {
+      "id": 3,
+      "name": "Nykaa Naturals Cold Pressed Hair & Body Oil",
+      "type": "Hair",
+      "price": "400",
+      "image": "nykaa.jpg",
+      "description": "Coconut oil is one stop destination for all beauty benefits for skin, scalp and nails. It is extracted by crushing dried coconuts by primitive cold pressed methods which help retain its unique balance of nutrients, aroma & texture. Knockout that stubborn Dandruff to keep the scalp happy and healthy or massage your face at night with it to get that soft, dewy glow and clear complexion the next morning!",
+      "qty": "300 ml"
+    },
+    {
+      "id": 4,
+      "name": "Nykaa Naturals Tea Tree Essential Oil",
+      "type": "Hair",
+      "price": "350",
+      "image": "nykaatea.jpg",
+      "description": "Explore the entire range of Face Oils available on Nykaa. Shop more Nykaa Naturals products here.You can browse through the complete world of Nykaa Naturals Face Oils .Alternatively, you can also find many more products from the Nykaa Naturals Essential Oil range.",
+      "qty": "300 ml"
+    },
+    {
+      "id": 5,
+      "name": "Indulekha Bringha Hair Oil",
+      "type": "Hair",
+      "price": "432",
+      "image": "indulekha.jpg",
+      "description": "Indulekha Bringha Oil is prepared by using extracts from Bringhraj and Svetakutaja. The herb is then soaked in virgin coconut oil and matured under natural sunlight for up to 7 days. The power of the sun and the potency of these goes into making Indulekha Bringha Oil.",
+      "qty": "100 ml"
+    },
+    {
+      "id": 6,
+      "name": "Nykaa Skin Secrets Sheet Mask",
+      "type": "Skin",
+      "price": "100",
+      "image": "mask.jpg",
+      "description": "Introducing Nykaa Skin Secrets Sheet Masks, where touted beauty secrets from the soils of India meet the cutting-edge technology of Korea. Carefully chosen, we bring you 21 variants that are specially made to target all your skin concerns",
+      "qty": "10 Sheets"
+    },
+    {
+      "id": 7,
+      "name": "The Face Shop Rice Water Bright Foaming Cleanser",
+      "type": "Skin",
+      "price": "650",
+      "image": "ricewater.jpg",
+      "description": "Brightening, deep-foaming cleanser effectively cleanses away makeup as the whipped cream texture gently envelops the skin. The Faceshop Rice Water Bright Cleansing Foam is formulated with natural cleansing agents including Rice Extract and Soapwort Extract, it leaves skin looking clear and bright.",
+      "qty": "150 ml"
+    },
+    {
+      "id": 8,
+      "name": "Cetaphil Gentle Skin Cleanser",
+      "type": "Skin",
+      "price": "237",
+      "image": "cetaphil.jpg",
+      "description": "Explore the entire range of Cleanser available on Nykaa. Shop more Cetaphil products here.You can browse through the complete world of Cetaphil Cleanser .Alternatively, you can also find many more products from the Cetaphil Gentle Skin Cleanser range",
+      "qty": "150 ml"
+    },
+    {
+      "id": 9,
+      "name": "Nykaa Lip Crush Macaron Lip Balm",
+      "type": "Makeup",
+      "price": "249",
+      "image": "lipbalm.jpg",
+      "description": "Pucker and pout, while you relish our Nykaa Lip Crush Macaron Lip Balm. Enriched with Shea Butter & Vitamin E, it delivers long-lasting moisture to your lips & provides year-round protection. Blanket your lips with the sheer tint and whisper sweet nothings!",
+      "qty": "50g"
+    },
+    {
+      "id": 10,
+      "name": "Lakme Deep Cleanser Cleansing Milk",
+      "type": "Makeup",
+      "price": "249",
+      "image": "lakmedeep.jpg",
+      "description": "Formulated with natural avocado extracts that gently cleanse the surface of your skin and remove impurities as well as make-up. It also contains vitamin E which is known for its antioxidant properties. Experience clean, soft and radiant skin with each use",
+      "qty": "60 ml"
+    },
+    {
+      "id": 11,
+      "name": "NIVEA Deodorant Roll On - Fresh Natural",
+      "type": "Fragrance",
+      "price": "185",
+      "image": "nivea.jpg",
+      "description": "Care for your underarms with NIVEA Fresh Natural Deodorant. It contains ocean extracts which give you day long odour protection and long lasting freshness. It combines NIVEA's gentle care and reliable protection. The NIVEA Fresh Natural Deodorant is dermatologically tested which makes it reliable for taking care of your underarm skin.",
+      "qty": "180 ml"
+    },
+    {
+      "id": 12,
+      "name": "Rexona Aloe Vera Underarm Odour Protection Roll On",
+      "type": "Fragrance",
+      "price": "67",
+      "image": "rexona.jpg",
+      "description": "Aloe Vera Underarm odour protection Roll-On is a light, fresh aloe scent with a calm and cooling feeling that leaves you clean and protected from odour for about 48 hours. An anti-per spirant with clean, fresh scent to keep you feeling dry and confident all day long.Whether you're scaling a mountain, running for the bus or train, presenting to your boss or going for your first job interview, you can be confident of the best Protection.With 0% alcohol, it is safe on skin and is Dermatologist tested .So apply Rexona Underarm Roll-On after your bath every morning, and step out with Rexona confidence!Rexona '",
+      "qty": "25 ml"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Peter",
+      "lastname": "Johnason",
+      "id": "peter@gmail.com",
+      "email": "peter@gmail.com",
+      "password": "pass@123"
+    },
+    {
+      "firstname": "John",
+      "lastname": "David",
+      "id": "john@gmail.com",
+      "email": "john@gmail.com",
+      "password": "pass@123"
+    },
+    {
+      "id": "shane@gmail.com",
+      "firstname": "shane",
+      "lastname": "warne",
+      "email": "shane@gmail.com",
+      "password": "pass@123"
+    }
+  ]
+}

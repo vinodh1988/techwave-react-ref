@@ -1,0 +1,50 @@
+#register{
+  overflow: hidden;
+  margin-left: 80px;
+  margin-right: 80px;
+  text-align:center;
+  color: pink;
+  font-weight: bold;
+}
+
+#register input[type="email"]::placeholder,#register input[type="password"]::placeholder,
+#register input[type="text"]::placeholder
+{
+    color: rgb(251, 240, 242);
+}
+
+
+#register-left{
+   float:left;
+   width: 45%;
+   padding: 20px;
+   text-align: left;
+   margin-left:20px;
+}
+
+#reg-container{
+    overflow:hidden;
+    width: 100%;
+    border: 2px solid rgb(255, 171, 206);
+    padding: 20px;
+}
+
+#register-right{
+   float: left;
+   text-align:left;
+   width: 45%;
+   padding: 20px;
+}
+
+#reg-button{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#register button{
+    background-color: pink;
+    color: white;
+    box-shadow:2px 2px 5px pink;
+    margin-bottom: 50px;
+}
+

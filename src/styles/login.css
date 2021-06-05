@@ -1,0 +1,29 @@
+#login{
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 400px;
+    height: 400px;
+    color: pink;
+    font-weight: bold;
+}
+
+#login button{
+    background-color: pink;
+    color: white;
+    box-shadow:2px 2px 5px pink;
+    margin-left: 37%;
+    margin-top: 20px;
+}
+
+#login input[type="email"]::placeholder,#login input[type="password"]::placeholder{
+    color: rgb(251, 240, 242);
+}
+
+#register{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#register a{
+    color: pink;
+}

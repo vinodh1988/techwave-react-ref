@@ -1,0 +1,37 @@
+#aboutus-container{
+    overflow: hidden;
+
+}
+
+#about-div{
+    overflow: hidden;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#abt-content{
+    float: left;
+    height: 600px;
+    width: 70%;
+    box-sizing: border-box;
+    padding: 30px;
+    color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size: 17px;
+}
+
+#vertical-banner{
+    height: 600px;
+    width:30%;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+    
+}
+
+#vertical-banner  img{
+    height: 100%;
+    width: 100%;
+    box-shadow: 2px 2px 10px pink;
+}
